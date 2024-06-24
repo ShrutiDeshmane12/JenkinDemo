@@ -12,7 +12,7 @@ public class JenkinDemoApplication {
 	@GetMapping
 	public String getmessage()
 	{
-		return "Hello";
+		return "Hello .......";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinDemoApplication.class, args);
